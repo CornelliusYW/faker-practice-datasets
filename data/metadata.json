@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "customers": 100,
+  "transactions": 1000,
+  "date_start": "2025-01-01",
+  "date_end": "2025-12-31",
+  "currency": "USD",
+  "python": "3.12.14",
+  "Faker": "40.43.0",
+  "pandas": "3.0.1",
+  "total_revenue_cents": 4906600,
+  "synthetic": true
+}
